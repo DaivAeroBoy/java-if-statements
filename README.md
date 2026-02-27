@@ -7,9 +7,7 @@ An interactive, visual guide to learning **if statements in Java** — built as 
 
 ## 🌐 Live Demo
 
-👉 **[Click here to open the guide](https://DaiviAeroBoy.github.io/java-if-statements/)**
-
-> *(Replace `yourusername` with your actual GitHub username)*
+👉 **[Click here to open the guide](https://daivaeroboy.github.io/java-if-statements/)**
 
 ---
 
@@ -75,7 +73,7 @@ Made for **ICSE Class IX students** studying Java for the first time. Feel free 
 Found this helpful? Share the link with your classmates:
 
 ```
-https://DaiviAeroBoy.github.io/java-if-statements/
+https://daivaeroboy.github.io/java-if-statements/
 ```
 
 ⭐ Star this repo if it helped you!
